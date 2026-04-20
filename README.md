@@ -1,2 +1,2 @@
-# gene-genie
+# cell-studio
 hackathon company website
